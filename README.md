@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohan2094
-- 👀 I’m interested in Android Development .
+- 👀 I’m interested in Web Development .
 - 🌱 I’m currently learning Competitive programming and Web development. 
 - 💞️ I’m looking to collaborate on app making .
 - 📫 How to reach me rohankhanna190@gmail.com
